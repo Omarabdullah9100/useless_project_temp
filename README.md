@@ -4,7 +4,7 @@
 # Ammini Browser 🎯
 
 ## Basic Details
-### Team Name: CodeFather
+### Team Name: Confusion Coders
 
 ### Team Members
 - Team Lead: Pawan Murali - SCMS SCHOOL OF ENGINEERING AND TECHNOLOGY
@@ -47,30 +47,62 @@ npm start
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1] (/Users/omarabdullah/Downloads/MOVIES/Website demo/Home Page.png)
+![Screenshot1](./screenshots/home-page.png)
 *Welcome screen with floating animations and Malayalam greeting "Keri Vaada Makkale"*
 
-![Screenshot2](/Users/omarabdullah/Downloads/MOVIES/Website demo/Welcome screen.png)
+![Screenshot2](./screenshots/welcome-screen.png)
 *Home screen featuring Ammini character and search functionality*
 
-![Screenshot3](/Users/omarabdullah/Downloads/MOVIES/Website demo/Search Result.png)
+![Screenshot3](./screenshots/search-result.png)
 *Search results showing delightfully wrong results*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Confusion Algorithm™ workflow showing how search queries get deliberately mismatched with grandmother wisdom*
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Demonstrates the complete confusion experience from welcome screen to hilariously wrong search results*
+## 🔍 AMMINI BROWSER CONFUSION ALGORITHM™ – Workflow
 
-# Additional Demos
-[Add any extra demo materials/links]
+```mermaid
+flowchart TD
+    UI["📝 User Input"] --> BP["🧠 Ammini's Brain Processing"]
+
+    BP -->|30% Chance| FM["😵 Forgetfulness Mode"]
+    FM --> RH["🏠 Redirect to Home"]
+
+    BP -->|70% Chance| CE["🎲 Confusion Engine"]
+    CE --> TR["🔀 Topic Randomizer<br/>
+               'JavaScript' → 🍛 Fish Curry Recipes<br/>
+               'React' → 🎬 Malayalam Movies<br/>
+               'Python' → 👵 Neighbor Stories<br/>
+               'CSS' → 🌿 Ayurvedic Remedies"]
+
+    TR --> RM["📚 Result Mixer<br/>
+               + Cooking tips<br/>
+               + Family stories<br/>
+               + Movie references<br/>
+               + Traditional wisdom"]
+
+    RM --> WR["🎭 Display Wrong Results"]
+    WR --> CF["📈 Increase Confusion Level<br/>(Loop continues)"]
+
+    CF --> TR
+```
+
+# Project Demo
+
+## Demo Video
+https://github.com/user-attachments/assets/1fb04cf6-23ee-46eb-9564-c9206e80c9f6
+
+- [📥 Download Demo Video](./demo/ammini-browser-demo.mp4) - Complete walkthrough (17.8 MB)
+
 
 ## Team Contributions
 - Pawan Murali: Frontend development, browser features implementation, search algorithm design, animation effects
 - Omar Abdullah K A: Backend logic, data management, UI/UX design, character integration and testing
+
+---
+Made with ❤️ at TinkerHub Useless Projects 
+
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
