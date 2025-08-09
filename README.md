@@ -1,23 +1,23 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# Ammini Browser 🎯
+# Ammini Browser
 
 ## Basic Details
-### Team Name: Confusion Coders
+### Team Name: CodeFather
 
 ### Team Members
 - Team Lead: Pawan Murali - SCMS SCHOOL OF ENGINEERING AND TECHNOLOGY
 - Member 2: Omar Abdullah K A - SCMS SCHOOL OF ENGINEERING AND TECHNOLOGY  
 
 ### Project Description
-A delightfully confusing web browser that embodies a loving Malayalam grandmother who finds everything except what you're looking for, complete with fish curry recipes and neighborhood gossip.
+A delightfully confusing web browser that embodies a loving grandmother who finds everything you're not looking for.
 
 ### The Problem (that doesn't exist)
-Modern browsers are too efficient and actually show users what they search for, depriving them of the authentic experience of asking their grandmother for help with technology.
+Modern browsers are too efficient and show users what they search for, depriving them of the authentic experience of asking their grandmother for help with technology.
 
 ### The Solution (that nobody asked for)
-We created Ammini Browser - a browser that deliberately misunderstands your searches and responds with fish curry recipes, Malayalam movie recommendations, and traditional remedies, just like a real grandmother would!
+We created Ammini Browser - a browser that deliberately misunderstands your searches and responds just like a real grandmother would!
 
 ## Technical Details
 ### Technologies/Components Used
@@ -46,9 +46,9 @@ npm start
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots
 ![Screenshot1](./screenshots/home-page.png)
-*Welcome screen with floating animations and Malayalam greeting "Keri Vaada Makkale"*
+*Welcome screen with floating animations and greeting "Keri Vaada Makkale"*
 
 ![Screenshot2](./screenshots/welcome-screen.png)
 *Home screen featuring Ammini character and search functionality*
@@ -58,7 +58,7 @@ For Software:
 
 # Diagrams
 
-## 🔍 AMMINI BROWSER CONFUSION ALGORITHM™ – Workflow
+## 🔍 AMMINI BROWSER ALGORITHM™ – Workflow
 
 ```mermaid
 flowchart TD
@@ -97,12 +97,6 @@ https://github.com/user-attachments/assets/1fb04cf6-23ee-46eb-9564-c9206e80c9f6
 ## Team Contributions
 - Pawan Murali: Frontend development, browser features implementation, search algorithm design, animation effects
 - Omar Abdullah K A: Backend logic, data management, UI/UX design, character integration and testing
-
----
-Made with ❤️ at TinkerHub Useless Projects 
-
-![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
-![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
