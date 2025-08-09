@@ -1,0 +1,150 @@
+{
+  "topics": {
+    "cats": [
+      {
+        "title": "Why Cats Knock Things Off Tables - Scientific Study",
+        "url": "www.felinebehavior.com/knockoff-study",
+        "snippet": "New research reveals that cats systematically test gravity 47 times per day to ensure it's still working properly."
+      },
+      {
+        "title": "Cat Food Recipe: Tuna Casserole for Humans",
+        "url": "www.catcooking.net/tuna-casserole",
+        "snippet": "This delicious recipe was originally designed for cats but surprisingly works well for people too. Serves 4 cats or 1 hungry human."
+      },
+      {
+        "title": "Local Cat Becomes Mayor of Small Town",
+        "url": "www.localnews.com/cat-mayor-2024",
+        "snippet": "Whiskers McKitty won the election by a landslide after promising more sunny windowsills and mandatory nap time for all residents."
+      }
+    ],
+    "cooking": [
+      {
+        "title": "How to Boil Water: A 47-Step Guide",
+        "url": "www.advancedcooking.com/water-boiling",
+        "snippet": "Master chef explains the ancient art of water boiling, including the proper way to hold the pot and which direction to stir."
+      },
+      {
+        "title": "Microwave Instructions Written in Ancient Egyptian",
+        "url": "www.mysterycooking.org/hieroglyph-microwave",
+        "snippet": "Archaeologists discover that ancient Egyptians had detailed microwave cooking instructions carved into pyramid walls."
+      },
+      {
+        "title": "Recipe: Ice Soup for Hot Summer Days",
+        "url": "www.creativecooking.net/ice-soup",
+        "snippet": "This refreshing ice soup is perfect for cooling down. Simply freeze water, then let it melt in a bowl. Garnish with more ice."
+      }
+    ],
+    "weather": [
+      {
+        "title": "Weather Forecast: Tuesday Will Definitely Happen",
+        "url": "www.obviousweather.com/tuesday-prediction",
+        "snippet": "Meteorologists are 100% confident that Tuesday will occur this week, followed closely by Wednesday, according to latest calendar data."
+      },
+      {
+        "title": "Local Man Argues with Thermometer",
+        "url": "www.weatherdrama.com/thermometer-argument",
+        "snippet": "Gerald believes the thermometer is lying about the temperature and has been having heated discussions with it for three days."
+      },
+      {
+        "title": "Clouds Spotted Doing Suspicious Activity",
+        "url": "www.skywatch.org/suspicious-clouds",
+        "snippet": "Witnesses report seeing clouds moving in the sky for no apparent reason. Investigation ongoing."
+      }
+    ],
+    "travel": [
+      {
+        "title": "How to Pack a Suitcase with Only Rubber Ducks",
+        "url": "www.rubbertravel.com/duck-packing",
+        "snippet": "Travel light with this comprehensive guide to rubber duck travel. Learn proper duck arrangement and squeaking etiquette for international flights."
+      },
+      {
+        "title": "Tourist Gets Lost in Own Backyard",
+        "url": "www.lostlocals.com/backyard-adventure",
+        "snippet": "Margaret wandered around her garden for six hours before realizing she was still at home. 'The azaleas looked different from this angle,' she explained."
+      },
+      {
+        "title": "Airport Security Confiscates Man's Imaginary Sword",
+        "url": "www.securitynews.com/imaginary-weapons",
+        "snippet": "TSA agents successfully detected and removed an invisible medieval sword that passenger insisted he wasn't carrying."
+      }
+    ],
+    "technology": [
+      {
+        "title": "Computer Mouse Runs Away, Returns Three Days Later",
+        "url": "www.pettech.com/runaway-mouse",
+        "snippet": "Office worker discovers computer mouse had been exploring the building. 'It needed exercise,' explained IT support."
+      },
+      {
+        "title": "Smartphone Develops Attitude Problem",
+        "url": "www.devicepsychology.org/phone-attitude",
+        "snippet": "Local phone refuses to make calls, only sends dramatic text messages about being misunderstood."
+      },
+      {
+        "title": "WiFi Password Changed to 'Password123', Everyone Confused",
+        "url": "www.networksecurity.com/obvious-password",
+        "snippet": "IT department says the new ultra-secure password will definitely fool hackers because it's so obvious they'll never expect it."
+      }
+    ],
+    "random": [
+      {
+        "title": "Man Discovers Socks Have Been Plotting Against Him",
+        "url": "www.socktruth.com/sock-conspiracy",
+        "snippet": "Local resident uncovers evidence that his socks have been deliberately hiding to avoid laundry day."
+      },
+      {
+        "title": "Scientists Prove Tuesday is Actually Wednesday",
+        "url": "www.timeresearch.org/tuesday-wednesday",
+        "snippet": "Groundbreaking study reveals that what we call Tuesday has been Wednesday all along. Monday remains unchanged."
+      },
+      {
+        "title": "Local Squirrel Elected President of Neighborhood Association",
+        "url": "www.nuttydemocracy.com/squirrel-president",
+        "snippet": "Nutkin McFluffytail promises better bird feeder management and mandatory acorn storage for all residents."
+      },
+      {
+        "title": "Gravity Temporarily Broken in Downtown Area",
+        "url": "www.physicsrepair.com/gravity-outage",
+        "snippet": "Maintenance crew working to restore normal falling capabilities to three-block radius. Residents advised to hold onto heavy objects."
+      },
+      {
+        "title": "Mysterious Purple Elephant Spotted Not Existing",
+        "url": "www.nonexistentsightings.org/purple-elephant",
+        "snippet": "Multiple witnesses confirm they definitely did not see a purple elephant that wasn't there yesterday."
+      },
+      {
+        "title": "Local Library Fines Book for Being Late",
+        "url": "www.justiceforbooks.com/late-book-fine",
+        "snippet": "Dictionary charged $500 for arriving three minutes late to its own checkout. Book claims it was stuck in traffic."
+      }
+    ]
+  },
+  "grandmaMessages": [
+    "Oh dear, what was I looking for again? Let's start over!",
+    "You know, that reminds me of your cousin Bobby... wait, who are you again?",
+    "I seem to have forgotten what we were doing. Would you like some cookies?",
+    "Oh my, where did my glasses go? I can't remember what we were searching for!",
+    "Is that you, Margaret? No wait... who were we talking about?",
+    "I just remembered I need to feed the cat... wait, what were we doing?",
+    "My memory isn't what it used to be, sweetie. Let's try again!",
+    "Oh goodness, I completely forgot what you asked me! Shall we start fresh?"
+  ],
+  "grandmaIntros": [
+    "Hello there, sweetheart! What can I help you find today?",
+    "Welcome to my special computer, dear! I'm still learning how this thing works.",
+    "Oh hello! I hope you're having a lovely day. What would you like to search for?",
+    "Good morning, sunshine! Though I can never tell what time it is on this contraption.",
+    "Welcome back! Or are you new? I can never remember. What are we looking for?",
+    "Hello dearie! I just figured out how to turn this computer on. What magic shall we perform?",
+    "Oh my! Another visitor! I love meeting new people. What brings you to my little corner of the internet?",
+    "Welcome! I was just organizing my 47,000 unread emails. What can I help you with instead?"
+  ],
+  "grandmaSummaries": [
+    "Well, this reminds me of the time your grandfather tried to fix the toaster with a fishing rod. He was convinced it was an electrical fish. We didn't have toast for three weeks, but we did catch a lovely salmon somehow.",
+    "You know, back in my day, we didn't have all these computers. We had to search for things the old-fashioned way - by asking Mrs. Henderson next door, who knew everything about everyone, including things that weren't true.",
+    "This makes me think of my prize-winning roses. I used to talk to them every morning, and they would tell me the weather forecast. They were right about 30% of the time, which is better than the meteorologist on Channel 7.",
+    "Oh, this is just like the time I accidentally joined a yoga class thinking it was a cooking lesson. I spent an hour trying to fold myself into a pretzel before realizing we weren't making actual pretzels.",
+    "I remember when the internet was just a big fishing net that my uncle used to catch ideas floating around in the air. Those were simpler times, when thoughts had physical weight and could be measured in pounds.",
+    "This reminds me of my collection of decorative spoons from places I've never been. Each one tells a story about a vacation I didn't take but definitely remember having. My favorite is from Mars.",
+    "You know, I once had a conversation with my vacuum cleaner for three hours before realizing it wasn't my husband. To be fair, the vacuum was a better listener and gave more thoughtful responses."
+  ]
+}
